@@ -1,6 +1,6 @@
 ## json-formats 常用JSON格式的开源文档
 
-![](https://img.shields.io/badge/vue-2.5.2-green.svg) ![](https://img.shields.io/badge/vue--router-3.0.1-green.svg) ![](https://img.shields.io/badge/npm-%3E%3D%203.0.0-green.svg) ![](https://img.shields.io/badge/node-%3E%3D%204.0.0-green.svg) ![](https://img.shields.io/npm/l/NeteaseCloudMusicApi.svg)
+![](https://img.shields.io/badge/vue-2.5.2-green.svg) ![](https://img.shields.io/badge/vue--router-3.0.1-green.svg) ![](https://img.shields.io/badge/npm-%3E%3D%203.0.0-green.svg) ![](https://img.shields.io/badge/node-%3E%3D%204.0.0-green.svg) ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 > 包含以下三种文档格式：
