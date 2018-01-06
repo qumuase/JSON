@@ -4,7 +4,7 @@
 
 
 > 包含以下三种文档格式：
-
+> 
 > * [ ] bower.json
 > * [ ] install.json
 > * [ ] package.json
