@@ -1,5 +1,6 @@
 <template>
   <div class="package">
+    <div class="pc-wrap">
       <header>
         <h1>package.json</h1>
         <h4>
@@ -20,9 +21,11 @@
 </div>
         </pre>
       </div>
-      <footer>
-        <p>👻 👻 👻</p>
-      </footer>
+    </div>
+    <p class="mobile-message">移动端稍后更新，请先在 PC 端查看。</p>
+    <footer>
+      <p>👻 👻 👻</p>
+    </footer>
   </div>
 </template>
 

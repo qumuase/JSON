@@ -34,3 +34,17 @@ body {
   width: 100%;
   display: flex;
 }
+.mobile-message{
+  display: none;
+}
+@media screen and (max-width: 930px) {
+  .pc-wrap {
+      display: none;
+  }
+  .mobile-message{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
