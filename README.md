@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/vue-2.5.2-green.svg) ![](https://img.shields.io/badge/vue--router-3.0.1-green.svg) ![](https://img.shields.io/badge/npm-%3E%3D%203.0.0-green.svg) ![](https://img.shields.io/badge/node-%3E%3D%204.0.0-green.svg) ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
-![](https://ws4.sinaimg.cn/large/006tNc79ly1fn828j6jnvj31kw0xtgo7.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79ly1fn826unqepj31kw0z0dm9.jpg)
 
 > 包含以下三种文档格式：
 > 
