@@ -129,11 +129,7 @@
         </li>
       </ul>
       <footer>
-        <p class="created">Created by
-          <a href="https://eager.io" target="_blank">Eager</a>
-          <span>&</span>
-          <a href="https://github.com/EagerIO/JSON.is" target="_blank">JSON.is</a>
-        </p>
+        <p class="created">Created by qumuase</p>
       </footer>
   </div>
 </template>
@@ -246,5 +242,8 @@ export default {
     li:hover {
       transform: translate3d(0, 0, -1.2em);
     }
+  }
+  footer{
+    padding-top: 1em;
   }
 </style>

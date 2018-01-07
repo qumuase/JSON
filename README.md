@@ -6,9 +6,9 @@
 
 > 包含以下三种文档格式：
 > 
-> * [ ] bower.json
-> * [ ] install.json
-> * [ ] package.json
+> * [x] bower.json
+> * [x] install.json
+> * [x] package.json
 
 <!-- ## Build Setup
 
@@ -29,6 +29,10 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader). -->
 
 ## 文档内容还在持续更新中
+
+
+## 感谢
+[Eager](https://eager.io) | [JSON.is](https://github.com/EagerIO/JSON.is)
 
 ## 许可证
 [MIT](https://github.com/transloadit/uppy/blob/master/LICENSE)
