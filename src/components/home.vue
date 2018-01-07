@@ -146,14 +146,12 @@ export default {
     let home = document.getElementById("app"),
         bg = document.getElementsByClassName('bg')
     home.onmouseover = function(e) {
-      let x = e.pageX - home.offsetLeft
-      let y = e.pageY - home.offsetTop
-      let centerX = home.clientWidth / 2
-      let centerY = home.clientHeight / 2 
-      let deltaX = x - centerX
-      let deltaY = y - centerY
-      let percentX = deltaX / centerX
-      let percentY = deltaY / centerY
+      let centerX = home.clientWidth / 2,
+          centerY = home.clientHeight / 2,
+          deltaX = e.pageX - home.offsetLeft - centerX,
+          deltaY = e.pageY - home.offsetTop - centerY,
+          percentX = deltaX / centerX,
+          percentY = deltaY / centerY
       for (let i = 0; i < bg.length; i++) {
         bg[i].style.transform = 'rotateX(' + 10 *- percentY + 'deg) rotateY(' + 10 * percentX + 'deg)'
       }
@@ -168,6 +166,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
+  #home-page{
+    background: #000;
+    color: rgba(255,255,255,0.65);
+    min-height: 100vh;
+    min-width: 100vw;
+  }
   header {
     a {
       color: #fff;

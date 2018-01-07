@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/vue-2.5.2-green.svg) ![](https://img.shields.io/badge/vue--router-3.0.1-green.svg) ![](https://img.shields.io/badge/npm-%3E%3D%203.0.0-green.svg) ![](https://img.shields.io/badge/node-%3E%3D%204.0.0-green.svg) ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
+![](https://ws3.sinaimg.cn/large/006tNc79ly1fn821gq43ij31kw0v3wgz.jpg)
 
 > 包含以下三种文档格式：
 > 
@@ -27,9 +28,9 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader). -->
 
-## 更新中
+## 文档内容还在持续更新中
 
-## License
-[The MIT License.](https://github.com/transloadit/uppy/blob/master/LICENSE)
+## 许可证
+[MIT](https://github.com/transloadit/uppy/blob/master/LICENSE)
 
 
