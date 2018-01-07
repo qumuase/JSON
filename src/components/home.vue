@@ -173,6 +173,7 @@ export default {
       color: #fff;
     }
     h1{
+      margin-bottom: 2em;
       a{
         font-size: 2em;
       }
